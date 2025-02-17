@@ -1,6 +1,5 @@
 #About Me 🧌
 ## Hello there! I'm Don, a passionate Native Android developer who loves constant improvement and creating beautiful mobile UI👋
-![LinkedIn Badge](https://img.shields.io/badge/Don_Michael_Magoshe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donmichaelmagoshe/)
 
 
 
